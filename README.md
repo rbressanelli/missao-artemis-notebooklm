@@ -128,9 +128,10 @@ A base da cápsula Orion, feita de um material que queima e se desprende de form
 
 Uma nova tecnologia que usa lasers em vez de ondas de rádio. Isso permite que a Artemis II envie dados e vídeos em altíssima definição da Lua para a Terra com muito mais velocidade.
 
+# Conjunto de prompsts
 
-
-
-
-
+- Quem foram os astronautas da tripulação da Artemis II?
+- O que foi observado no lado escuro da Lua?
+- Existem missões planejadas para o futuro?
+- Qual a condição física dos astronautas ao retornar a terra?
 
