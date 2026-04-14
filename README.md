@@ -3,6 +3,8 @@
 Sou Engenheiro Eletrônico de formação e por ser apaixonado por tecnologia, fiz minha transição de carreira para Desenvolvimento Web Full Stack.<br>
 Após analisar o desafio, e dentre a vasta possibilidade de eventos, dados e conhecimentos existentes para concluir esta tarefa, deixei minha paixão falar mais alto e resolvi escolher um assunto que evidencia o nível tecnológico em que estamos, e também a capacidade humana de atingir metas quase impossíveis.<br>
 
+Link público: <a href="https://notebooklm.google.com/notebook/35a69337-9d42-414e-87b4-b3bebfaba220">Missão Artemis II NotebookLM</a>
+
 # Objetivos 🎯
 
 Meus objetivos aqui são os de compreender melhor como se deu esta missão, desde sua idealização até os momentos finais, com a capsula retornando à Terra.<br>
