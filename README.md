@@ -19,8 +19,43 @@ No passado recente tivemos fatalidades que sempre adicionam uma espectativa a ma
 
 # Engenharia de prompt
 
+### prompt1: quais as tecnologias utilizadas nos foguetes da missão?
+resposta:<br>
+O foguete utilizado na missão Artemis II é o Space Launch System (SLS), operando em sua configuração Block 1. Esta arquitetura integra tecnologias de programas anteriores com inovações modernas para gerar um empuxo de 8,8 milhões de libras no lançamento, tornando-o o foguete mais poderoso já construído pela NASA.<br>
+As principais tecnologias integradas nos estágios do foguete incluem:
+<b>1. Estágio Principal (Core Stage)</b><br>
+- <b>Motores RS-25</b>: O estágio principal utiliza quatro motores RS-25, que são tecnologias reaproveitadas e aprimoradas da era dos Ônibus Espaciais. Cada motor fornece cerca de 500.000 libras de empuxo e funciona por aproximadamente oito minutos durante a subida.<br>
+- <b>Tanques de Propelente</b>: A estrutura de 64,6 metros (212 pés) abriga tanques de hidrogênio líquido (LH2) e oxigênio líquido (LOX) resfriados a temperaturas criogênicas.<br>
+<b>2. Propulsores Auxiliares (Solid Rocket Boosters)</b><br>
+- <b>Tecnologia de Combustível Sólido</b>: O SLS utiliza dois propulsores de cinco segmentos construídos pela Northrop Grumman.<br>
+- <b>Desempenho</b>: Cada propulsor gera 3,6 milhões de libras de empuxo, sendo responsáveis por mais de 75% da força total necessária para tirar o veículo da plataforma de lançamento nos primeiros dois minutos de voo.<br>
+<b>3. Segundo Estágio: ICPS (Interim Cryogenic Propulsion Stage)</b><br>
+- <b>Motor RL10</b>: Este estágio superior é impulsionado por um único motor RL10, derivado do estágio Delta Cryogenic Second Stage.<br>
+- <b>Função Orbital</b>: O ICPS é responsável por realizar a manobra de elevação do perigeu para estabelecer uma órbita estável e, posteriormente, fornecer o empuxo para a Injeção Translunar (TLI), que envia a nave Orion em direção à Lua.<br>
+<b>4. Sistemas de Segurança e Manobra</b><br>
+- <b>Sistema de Aborto de Lançamento (LAS)</b>: Localizado no topo do foguete, o LAS é uma torre de escape equipada com três motores de foguete de combustível sólido. Ele é projetado para ser ativado em milissegundos em caso de emergência, puxando a cápsula Orion para longe do lançador principal.<br>
+- <b>Propulsão da Orion (Módulo de Serviço Europeu)</b>: Embora faça parte da espaçonave e não do foguete lançador, o Módulo de Serviço Europeu (ESM) possui 33 motores, incluindo um motor principal AJ10 (também reaproveitado do Ônibus Espacial) para correções de trajetória e manobras no espaço profundo.<br><br>
+O foguete também conta com sistemas autônomos de voo e monitoramento, como o Ground Launch Sequencer (GLS), que gerencia centenas de comandos automatizados durante a contagem regressiva terminal.<br><br>
 
-# Resumo 📖
+### prompt2: mas essa tecnoloogia é recente, ou são tecnologias atualizadas?
+
+resposta:<br>
+A tecnologia utilizada na missão Artemis II representa o que a NASA descreve como o ápice da engenharia aeroespacial atual, combinando sistemas herdados ("heritage") que foram profundamente atualizados com inovações recentes e de ponta.<br>
+Abaixo estão os detalhes sobre como essas tecnologias se dividem:
+<b>1. Tecnologias Atualizadas (Hardware "Heritage")</b><br>
+Grande parte da potência bruta do foguete e da nave vem de componentes comprovados em voos anteriores (especialmente da era dos Ônibus Espaciais), que foram reformados e modernizados:
+- <b>Motores RS-25</b>: Os quatro motores do estágio principal do foguete SLS são motores reaproveitados do programa de Ônibus Espaciais. Eles passaram por inúmeras atualizações para se tornarem mais confiáveis e fornecerem um empuxo maior, adequado às exigências de uma missão lunar.<br>
+- <b>Motor Principal da Orion (AJ10)</b>: Este motor também é um veterano, tendo sido originalmente projetado para o sistema de manobra orbital dos Ônibus Espaciais. Ele foi totalmente testado, reformado e integrado para servir como o "coração" da propulsão da Orion no espaço profundo.<br>
+- <b>Propulsores de Combustível Sólido</b>: Derivados do hardware da era dos Ônibus Espaciais, eles utilizam designs comprovados, mas com upgrades significativos nos segmentos e materiais.<br>
+<b>2. Tecnologias Recentes e Inovações</b><br>
+Enquanto a "força bruta" é baseada em designs conhecidos, os sistemas de controle, comunicação e ciência são extremamente recentes:<br>
+- <b>Comunicações Ópticas por Laser (O2O)</b>: Esta é uma tecnologia avançada que substitui ou complementa as ondas de rádio tradicionais por feixes de laser infravermelho. Ela permite taxas de transmissão de dados muito mais altas (até 260 Mbps), permitindo o envio de vídeos em alta definição e grandes volumes de dados científicos em tempo real.<br>
+- <b>AVATAR (Virtual Astronaut Tissue Analog Response)</b>: Um experimento de ponta que utiliza a tecnologia de "órgão em um chip". Ele usa células dos próprios astronautas para simular em tempo real como o corpo humano responde à radiação extrema e à microgravidade, uma técnica revolucionária para a medicina personalizada no espaço.<br>
+- <b>Cockpit e Interfaces</b>: Ao contrário dos mostradores analógicos da Apollo, a Orion possui um "glass cockpit" com interfaces digitais modernas baseadas no design do Boeing 787 Dreamliner e telas sensíveis ao toque.<br>
+- <b>Trajes OCSS</b>: Embora lembrem visualmente trajes antigos, eles possuem melhorias de engenharia recentes, como gestão térmica aprimorada, luvas compatíveis com touch-screen e sistemas de suporte de vida pressurizados capazes de durar seis dias em emergências.<br><br>
+Em resumo, a estratégia da NASA foi utilizar designs de motores e estruturas físicas confiáveis para garantir a segurança, enquanto preenchia o interior e os sistemas de apoio com o que há de mais moderno em computação, biotecnologia e comunicações.<br><br>
+
+# Resumo da Missão Artemis II 📖
 ## Visão Geral 🔭
 A Artemis II foi a primeira missão espacial tripulada do Programa Artemis da NASA e a primeira a levar seres humanos para além da órbita baixa da Terra desde a missão Apollo 17, em 1972. Esta missão serviu como um voo de teste crítico para validar os sistemas necessários para futuras alunissagens.<br>
 
@@ -50,6 +85,52 @@ A missão contou com quatro astronautas pioneiros:<br>
 - Demonstração de Pilotagem: Testes manuais da Orion para preparar futuras acoplagens no espaço profundo.<br>
 - Ciência e Exploração: Captura de mais de 7.000 imagens da superfície lunar e realização de estudos sobre os efeitos da radiação e microgravidade no corpo humano.<br>
 - Perspectiva Planetária: Observação direta de um "nascer da Terra" e de um eclipse solar a partir do espaço profundo.<br>
+
+# Glossário
+
+### <b>1. SLS (Space Launch System)</b>
+
+O "Sistema de Lançamento Espacial" é o foguete mais potente da NASA. Ele utiliza um estágio central criogênico e dois propulsores auxiliares para gerar o empuxo necessário para enviar a nave Orion para fora da órbita terrestre.
+
+### <b>2. Orion MPCV (Multi-Purpose Crew Vehicle)</b>
+
+A cápsula de tripulação onde os astronautas viverão. Ela é projetada para missões de longa duração no espaço profundo e possui sistemas avançados de suporte à vida e proteção contra radiação.
+
+### <b>3. ESM (European Service Module)</b>
+
+Fornecido pela ESA, este módulo fica abaixo da cápsula Orion. Ele é o "coração" da nave, fornecendo propulsão, eletricidade, água e oxigênio, além de controlar a temperatura interna.
+
+### <b>4. ICPS (Interim Cryogenic Propulsion Stage)</b>
+
+O estágio superior do foguete SLS. Ele entra em ação após o lançamento para realizar a manobra que retira a nave da órbita da Terra e a projeta em direção à Lua.
+
+### <b>5. LAS (Launch Abort System)</b>
+
+Um sistema de segurança em formato de torre acoplado ao topo da cápsula. Em caso de emergência no lançamento, ele dispara motores potentes para puxar a Orion para longe do foguete e salvar a tripulação.
+
+### <b>6. TLI (Trans-Lunar Injection)</b>
+
+A manobra de "Injeção Trans-Lunar". É o disparo preciso do motor que fornece a aceleração necessária para vencer a gravidade da Terra e colocar a nave em uma trajetória rumo ao satélite natural.
+
+### <b>7. Trajetória de Livre Retorno</b>
+
+Uma técnica de navegação onde a Orion utiliza a própria gravidade da Lua para "fazer a curva" e ser lançada de volta à Terra automaticamente, sem depender de grandes queimas de combustível para o retorno.
+
+### <b>8. Deep Space Network (DSN)</b>
+
+A rede global de antenas da NASA que permite a comunicação com naves no espaço profundo. Ela garante que a tripulação da Artemis II mantenha contato constante com o centro de controle na Terra.
+
+### <b>9. Escudo Térmico de Ablação</b>
+
+A base da cápsula Orion, feita de um material que queima e se desprende de forma controlada. Isso dissipa o calor extremo gerado pelo atrito com a atmosfera durante a reentrada a 40.000 km/h.
+
+### <b>10. Comunicação Óptica (O2O)</b>
+
+Uma nova tecnologia que usa lasers em vez de ondas de rádio. Isso permite que a Artemis II envie dados e vídeos em altíssima definição da Lua para a Terra com muito mais velocidade.
+
+
+
+
 
 
 
